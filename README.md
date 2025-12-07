@@ -177,6 +177,3 @@ Feel free to use and adapt for learning or production.
 ---
 
 
-
-**Contact**: [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)
-
